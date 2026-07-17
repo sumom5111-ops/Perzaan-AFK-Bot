@@ -1,13 +1,13 @@
 {
-  "name": "totemsmp",
+  "name": "pantmmc",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "playtotemsmp.aternos.me",
-    "port": 22317,
+    "ip": "PHANTOM_MC.aternos.me",
+    "port": 39785,
     "version": "1.21.1"
   },
   "position": {
